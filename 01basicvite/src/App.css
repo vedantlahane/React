@@ -1,0 +1,24 @@
+div{
+    color: rgb(247, 249, 250);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border: 5px solid rgb(0, 238, 255);
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+button{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 20px;
+    border: 1px solid rgb(47, 0, 255);
+    border-radius: 10px;
+    background-color: rgb(108, 86, 219);
+    cursor: pointer;
+}
